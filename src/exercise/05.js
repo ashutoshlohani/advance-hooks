@@ -1,6 +1,3 @@
-// useImperativeHandle: scroll to top/bottom
-// http://localhost:3000/isolated/exercise/05.js
-
 import * as React from 'react'
 
 // 🐨 wrap this in a React.forwardRef and accept `ref` as the second argument
